@@ -9,8 +9,9 @@
 <body>
 gitTest Study 프로젝트 시작...
 <h1>성훈 test</h1>
+<<<<<<< HEAD
+<h2>성훈 test2</h2>
 <h2>광준 test</h2>
-
 <h3>기무 test push</h3>
 </body>
 </html>
